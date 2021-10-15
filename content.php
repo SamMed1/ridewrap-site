@@ -1,3 +1,3 @@
 <?php
-        echo "oasem";
+        echo "nyjte";
 ?>
