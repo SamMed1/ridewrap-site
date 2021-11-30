@@ -4,5 +4,4 @@
         echo "ljmcb";
         echo "uhuva";
         echo "vfcdv";
-        echo "qnago";
 ?>
