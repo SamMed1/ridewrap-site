@@ -11,5 +11,4 @@
         echo "brwey";
         echo "mijfy";
         echo "aychm";
-        echo "msoxy";
 ?>
