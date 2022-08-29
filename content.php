@@ -10,7 +10,5 @@
         echo "fmvbh";
         echo "rsxmu";
         echo "vgrvo";
-        echo "pweos";
-        echo "hfncy";
-        echo "ucwah";
+        echo "qdhhr";
 ?>
