@@ -21,4 +21,6 @@
         echo "ocppc";
         echo "rmbtr";
         echo "ncwbg";
+        echo "svnvn";
+        echo "sktid";
 ?>
