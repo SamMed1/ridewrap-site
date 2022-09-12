@@ -22,5 +22,4 @@
         echo "rmbtr";
         echo "ncwbg";
         echo "svnvn";
-        echo "sktid";
 ?>
