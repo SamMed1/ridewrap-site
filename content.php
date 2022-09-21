@@ -25,5 +25,4 @@
         echo "kloek";
         echo "uigis";
         echo "elkam";
-        echo "kkqro";
 ?>
