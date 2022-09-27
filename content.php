@@ -31,5 +31,4 @@
         echo "vwdue";
         echo "emnat";
         echo "kqtfr";
-        echo "oynoy";
 ?>
