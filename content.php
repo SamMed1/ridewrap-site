@@ -29,5 +29,4 @@
         echo "cferh";
         echo "abfuw";
         echo "vwdue";
-        echo "emnat";
 ?>
