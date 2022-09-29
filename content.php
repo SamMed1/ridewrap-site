@@ -30,5 +30,4 @@
         echo "abfuw";
         echo "vwdue";
         echo "emnat";
-        echo "qqglp";
 ?>
