@@ -35,5 +35,4 @@
         echo "hekud";
         echo "bndpx";
         echo "ftinl";
-        echo "rvnkk";
 ?>
