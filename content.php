@@ -39,5 +39,4 @@
         echo "hwdrv";
         echo "prqwf";
         echo "uccdg";
-        echo "spira";
 ?>
