@@ -47,5 +47,5 @@
         echo "dneks";
         echo "rndme";
         echo "ancql";
-        echo "cpuxd";
+        echo "qpwav";
 ?>
