@@ -60,5 +60,4 @@
         echo "vewnm";
         echo "hioxm";
         echo "oxywl";
-        echo "bafjk";
 ?>
