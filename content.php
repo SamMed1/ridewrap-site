@@ -69,5 +69,4 @@
         echo "sxpvu";
         echo "mrjag";
         echo "mcpst";
-        echo "uanec";
 ?>
