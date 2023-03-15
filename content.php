@@ -69,5 +69,4 @@
         echo "sxpvu";
         echo "mrjag";
         echo "kdidn";
-        echo "qicpt";
 ?>
