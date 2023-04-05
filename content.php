@@ -67,5 +67,4 @@
         echo "csehj";
         echo "lluob";
         echo "sxpvu";
-        echo "gcyuc";
 ?>
